@@ -28,22 +28,27 @@ The project task was to analyze the business performance of restaurants and cust
 * Top 10 Cuisine - Sales
   * This analysis highlights the top 10 cuisine types based on USD sales amount from the years 2017-2020.
   * The top 3 cuisine types identified are North Indian Chinese, North Indian, and Indian, with corresponding USD sales of $538,655, $511,398, and $403,756 respectively.
-  <img width="376" alt="Screen Shot 2024-02-20 at 9 04 00 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/b2ea6608-5940-4dcf-b407-c5e97a59b4f5">
+  ![image](https://github.com/user-attachments/assets/a4a9d9b7-aa1c-4cbf-b17a-748ee3bc71c5)
+
 * Ratings Count vs USD Sales
   * A bar chart illustrating the ratings count of all restaurants in the data and their generated sales is presented.
   * A formula was created to normalize the rating count data, assuming 20 ratings for restaurants with counts shown as "20+ ratings".
-  <img width="1053" alt="Screen Shot 2024-02-20 at 9 21 40 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/0dbc8555-1efb-47f8-b9ed-9e0299e94621">
+  ![image](https://github.com/user-attachments/assets/effc7106-7a16-4ffb-927e-22c1e9a11cf8)
+
 * Top 10 Restaurants - Yearly USD Sales
   * A line graph depicting the yearly sales trends of the top 10 restaurants from 2017 to 2020 is shown.
   * Sales for all 10 restaurants experienced growth from 2017 to 2018 but declined from 2018 to 2019 and further through 2020, potentially due to the impact of the COVID-19 pandemic.
-   <img width="1056" alt="Screen Shot 2024-02-20 at 9 22 29 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/765fbf37-26f2-4ea2-ae95-f74ebc180aed">
+   ![image](https://github.com/user-attachments/assets/7f2bf526-b4ae-409f-9c07-e43582abb2b4)
+
 * Top 10 Restaurants - USD Sales & AVG Ratings
   * A bar chart displaying the top 10 restaurants based on USD sales and their average ratings score is provided.
   * Top restaurants include Domino's Pizza, Kouzina Kafe, and Sweet Truth - Cake & Desserts, with respective USD sales of $60,284, $23,501, and $23,435.
   * Average ratings scores range between 4.56 and 3.43.
-  <img width="334" alt="Screen Shot 2024-02-20 at 9 23 11 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/829e362a-b139-4f05-9ed3-d1f0cd626b9a">
+  ![image](https://github.com/user-attachments/assets/8a70f541-e451-4455-b871-d02f04729ce8)
+
 * Project Dashboard
-  <img width="1431" alt="Screen Shot 2024-02-20 at 9 25 37 PM" src="https://github.com/Robblodo11/Airbnb-Rental-Marker-Analysis-READ.ME/assets/153016872/d7d23d6f-69e5-4def-b0b7-4e5aa96852ef">
+  ![image](https://github.com/user-attachments/assets/23ab9cd1-ca2d-4668-984d-3128c29d24d1)
+
 ### Conclusions & Recommendations
 * Recommended zomato to focus on customer restaurants falling under the top 10 cuisine categories, with a heavy emphasis on the top 3 of North Indian Chinese, North Indian, and Indian
 * Restaurants with ratings counts of 20 are found to generate the highest sales, followed by those with 100 ratings.
